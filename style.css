@@ -53,5 +53,8 @@ footer {
 }
 
 #demo {
-background: #D0E4F5 url("https://hozmarket-ekb.ru/upload/iblock/5c2/5c20e8dd7650fd13b8a52d6d51a394aa.jpg") no-repeat scroll 0 0;
+background: ##808080;
+background: -moz-linear-gradient(left, ##808080 0%, #FFFFFF 50%, #808080 100%);
+background: -webkit-linear-gradient(left, ##808080 0%, #FFFFFF 50%, #808080 100%);
+background: linear-gradient(to right, ##808080 0%, #FFFFFF 50%, #808080 100%);
 }
