@@ -52,9 +52,4 @@ footer {
     width: 100%;
 }
 
-#demo {
-background: ##808080;
-background: -moz-linear-gradient(left, ##808080 0%, #FFFFFF 50%, #808080 100%);
-background: -webkit-linear-gradient(left, ##808080 0%, #FFFFFF 50%, #808080 100%);
-background: linear-gradient(to right, ##808080 0%, #FFFFFF 50%, #808080 100%);
-}
+
